@@ -2,6 +2,13 @@
 
 ## Translated into Python
 
+Run tests with
+
+```
+git clone git@github.com:lwneal/pyhumanrights
+python -m pytest
+```
+
 ## Preamble
 
 Whereas recognition of the inherent dignity and of the equal and inalienable rights of all members of the human family is the foundation of freedom, justice and peace in the world,
