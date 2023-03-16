@@ -1,5 +1,5 @@
 import unittest
-from udhc import Individual, WorldState, article_1
+from humanrights import Individual, WorldState, article_1
 
 class TestArticle1(unittest.TestCase):
 
