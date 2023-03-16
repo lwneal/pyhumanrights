@@ -9,7 +9,11 @@ git clone git@github.com:lwneal/pyhumanrights
 python -m pytest
 ```
 
-## Preamble
+Tests: [South African Apartheid (1948-1994)](https://github.com/lwneal/pyhumanrights/blob/main/test/test_apartheid.py), [Rwandan Genocide (1994)](https://github.com/lwneal/pyhumanrights/blob/main/test/test_rwandan_genocide.py)
+
+
+## Original Text
+### Preamble
 
 Whereas recognition of the inherent dignity and of the equal and inalienable rights of all members of the human family is the foundation of freedom, justice and peace in the world,
 
